@@ -1,8 +1,9 @@
 # 🦎JSDeepDive
+
 <img src='https://github.com/onezeun/JSDeepDive/assets/78632052/a688ff44-7e93-441c-b495-ab5759b529ec' width="30%" height="50%" align="right"/>
 
-  - 모던 자바스크립트 DeepDive 도서 완독을 목표로 공부 내용을 기록합니다.
-  - 📖 [onezeun's Git Book](https://onezeun.gitbook.io/jsdeepdive)
+- 모던 자바스크립트 DeepDive 도서 완독을 목표로 공부 내용을 기록합니다.
+- 📖 [onezeun's Git Book](https://onezeun.gitbook.io/jsdeepdive)
 
 <br />
 <br />
@@ -18,12 +19,13 @@
 <div>
   
 ## 목차
+
 | 목차                                                        | ☑️  |
 | ----------------------------------------------------------- | --- |
-| 1장 - 프로그래밍                                            |     |
-| 2장 - 자바스크립트란?                                       |     |
-| 3장 - 자바스크립트 개발 환경과 실행 방법                    |     |
-| 4장 - 변수                                                  |     |
+| 1장 - 프로그래밍                                            | ✔️  |
+| 2장 - 자바스크립트란?                                       | ✔️  |
+| 3장 - 자바스크립트 개발 환경과 실행 방법                    | ✔️  |
+| [4장 - 변수](ch.4/변수.md)                                  | ✔️  |
 | 5장 - 표현식과 문                                           |     |
 | 6장 - 데이터 타입                                           |     |
 | 7장 - 연산자                                                |     |
@@ -69,6 +71,5 @@
 | 47장 - 에러 처리                                            |     |
 | 48장 - 모듈                                                 |     |
 | 49장 - Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축 |     |
-
 
 </div>
