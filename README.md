@@ -1,9 +1,23 @@
-# JSDeepDive🦎
-- 모던 자바스크립트 DeepDive 도서 완독을 목표로 공부 내용을 기록합니다.
-- 📖 [onezeun's Git Book](https://onezeun.gitbook.io/jsdeepdive)
+# 🦎JSDeepDive
+<img src='https://github.com/onezeun/JSDeepDive/assets/78632052/a688ff44-7e93-441c-b495-ab5759b529ec' width="30%" height="50%" align="right"/>
+
+  - 모던 자바스크립트 DeepDive 도서 완독을 목표로 공부 내용을 기록합니다.
+  - 📖 [onezeun's Git Book](https://onezeun.gitbook.io/jsdeepdive)
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+<div>
+  
 ## 목차
 | 목차                                                        | ☑️  |
 | ----------------------------------------------------------- | --- |
@@ -57,3 +71,5 @@
 | 48장 - 모듈                                                 |     |
 | 49장 - Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축 |     |
 
+
+</div>
