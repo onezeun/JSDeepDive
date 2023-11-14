@@ -1,23 +1,27 @@
-# JSDeepDive
+# 🦎JSDeepDive
 
 
 
-<figure><img src=".gitbook/assets/282458389-a688ff44-7e93-441c-b495-ab5759b529ec.png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/282458389-a688ff44-7e93-441c-b495-ab5759b529ec.png" alt="" width="343" align="right"><figcaption></figcaption></figure>
 
 * 모던 자바스크립트 DeepDive 도서 완독을 목표로 공부 내용을 기록합니다.
 * 📖 [onezeun's Git Book](https://onezeun.gitbook.io/jsdeepdive)
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+---
 
 ### 목차
 
