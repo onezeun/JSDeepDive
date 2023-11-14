@@ -3,42 +3,7 @@
 줄여서 타입이라고도 하며 값의 종류를 말함.  
 자바스크립트의 모든 값은 데이터 타입을 갖는다.
 
-<table>
-  <tr>
-    <th>구분</th>
-    <th>데이터 타입</th>
-    <th>설명</th>
-  </tr>
-  <tr>
-    <td rowspan="6">원시타입</td>
-    <td>숫자타입</td>
-    <td>숫자, 정수와 실수 구분 없이 하나의 숫자 타입만 존재</td>
-  </tr>
-  <tr>
-    <td>문자열 타입</td>
-    <td>문자열</td>
-  </tr>
-  <tr>
-    <td>불리언 타입</td>
-    <td>논리적 참(true)과 거짓(false)</td>
-  </tr>
-  <tr>
-    <td>undefined 타입</td>
-    <td>var 키워드로 선언된 변수에 암묵적으로 할당되는 값</td>
-  </tr>
-  <tr>
-    <td>null 타입</td>
-    <td>값이 없다는 것을 의도적으로 명시할 때 사용하는 값</td>
-  </tr>
-  <tr>
-    <td>심벌 타입</td>
-    <td>ES6에서 추가된 7번째 타입</td>
-  </tr>
-  <tr>
-    <td colspan="2">객체타입</td>
-    <td >객체, 함수, 배열 등</td>
-  </tr>
-</table>
+<figure><img src="../../.gitbook/ch.1-10/6-3.png" alt="" align="center"><figcaption><p></p></figcaption></figure>
 
 <br />
 
