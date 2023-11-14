@@ -2,11 +2,7 @@
 
 
 
-<div align="center">
-
-<figure><img src=".gitbook/assets/282487015-c8b95dc5-5285-48ed-81e4-205a36fd4825.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src=".gitbook/assets/282458389-a688ff44-7e93-441c-b495-ab5759b529ec.png" alt="" width="343"><figcaption></figcaption></figure>
 
 * 모던 자바스크립트 DeepDive 도서 완독을 목표로 공부 내용을 기록합니다.
 * 📖 [onezeun's Git Book](https://onezeun.gitbook.io/jsdeepdive)
