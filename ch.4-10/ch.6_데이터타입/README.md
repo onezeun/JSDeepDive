@@ -3,9 +3,8 @@
 줄여서 타입이라고도 하며 값의 종류를 말함.\
 자바스크립트의 모든 값은 데이터 타입을 갖는다.
 
-<figure><img src="../../.gitbook/ch.1-10/6-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/ch.1-10/6-3.png" alt="" align="center"><figcaption></figcaption></figure>
 
-\
 
 
 타입이 다르면 비슷해 보여도 전혀 다른 값이다.\
@@ -61,7 +60,7 @@ world!';
 
 일반 문자열 내에서 줄바꿈 등의 공백을 표현하려면 백슬래시(`\`)로 시작하는 이스케이프 시퀀스를 사용
 
-<figure><img src="../../.gitbook/ch.1-10/6-1.png" alt=""><figcaption><p>이스케이프 시퀀스</p></figcaption></figure>
+<figure><img src="../../.gitbook/ch.1-10/6-1.png" alt="" align="center"><figcaption><p>이스케이프 시퀀스</p></figcaption></figure>
 
 템플릿 리터럴 내에서는 이스케이프 시퀀스를 사용하지 않고도 줄바꿈이 허용되며, 모든 공백도 있는 그대로 적용됨\~
 

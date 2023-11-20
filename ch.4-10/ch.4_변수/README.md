@@ -121,7 +121,7 @@ score = 90;
 - 단, 식별자는 특수문자를 제외한 문자, 언더스코어, 달러기호로 시작해야 한다. 숫자로 시작하는 것은 허용하지 않는다.
 - 예약어는 식별자로 사용할 수 없다.
 
-<figure><img src="../.gitbook/assets/282487015-c8b95dc5-5285-48ed-81e4-205a36fd4825.png" alt=""><figcaption><p>자바스크립트 예약어 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/282487015-c8b95dc5-5285-48ed-81e4-205a36fd4825.png" alt="" align="center"><figcaption><p>자바스크립트 예약어 </p></figcaption></figure>
 
 ### 자주 사용되는 네이밍 컨벤션
 
